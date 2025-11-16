@@ -5,5 +5,16 @@ Phát hiện ảnh y khoa bất thường là một trong những hướng nghi�
 
 ### Bộ dữ liệu
 Tên dataset: Brain Tumor classification (MRI)
+
 Nguồn: Kaggle Datasets
+
+### Kiến trúc mô hình
+Lenet-5 gốc:
+
+- 2 lớp Convolution
+- 2 lớp Average Pooling
+- 3 Fully Connected layers
+- Activation: Tanh
+
+
 
