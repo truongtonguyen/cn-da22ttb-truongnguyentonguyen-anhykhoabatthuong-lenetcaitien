@@ -16,5 +16,12 @@ Lenet-5 gốc:
 - 3 Fully Connected layers
 - Activation: Tanh
 
+### Công nghệ sử dụng
+- PyTorch
+- Kaggle Notebooks
+
+
+
+
 
 
