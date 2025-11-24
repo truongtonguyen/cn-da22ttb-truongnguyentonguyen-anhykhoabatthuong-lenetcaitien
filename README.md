@@ -20,6 +20,8 @@ Lenet-5 gốc:
 - PyTorch
 - Kaggle Notebooks
 
+### Các bước thực hiện
+
 
 
 
