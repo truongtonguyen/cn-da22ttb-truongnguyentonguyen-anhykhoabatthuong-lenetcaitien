@@ -43,7 +43,6 @@ Lenet-5:
 5. Chọn file .ipynb từ máy tính.
 6. Chạy từng cell.
 7. Lưu kết quả: nhấn "Save Version" (góc trên bên phải).
-   
 ===================
 
 Trương Nguyễn Tố Nguyên
