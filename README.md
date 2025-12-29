@@ -35,7 +35,7 @@ Lenet-5:
 - Thêm Dropout vào các lớp Fully Connected để chống overfitting.
 - Kỹ thuật hỗ trợ: Tăng cường Dữ liệu. 
 
-======
+===================
 
 Trương Nguyễn Tố Nguyên
 
@@ -43,7 +43,6 @@ truongtonhu12@gmail.com
 
 0911048533
 
-======
 
 
 
