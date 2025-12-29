@@ -9,11 +9,11 @@ Tên dataset: Brain Tumor MRI Dataset
 Nguồn: Kaggle Datasets
 
 ### Kiến trúc mô hình
-Lenet-5 gốc:
+Lenet-5:
 
-- 2 lớp Convolution
+- 3 lớp Convolution
 - 2 lớp Average Pooling
-- 3 Fully Connected layers
+- 2 lớp Fully Connected 
 - Activation: Tanh
 
 ### Công nghệ sử dụng
@@ -21,6 +21,19 @@ Lenet-5 gốc:
 - Kaggle Notebooks
 
 ### Các bước thực hiện
+- Thu thập dữ liệu
+- Chuẩn bị dữ liệu
+- Xây dựng mô hình
+- Huấn luyện mô hình
+- So sánh và đánh giá
+- Thử nghiệm
+
+### Các cải tiến
+- Dùng ReLU thay cho Tanh để tăng tốc độ hội tụ và giảm vanishing gradient.
+- Dùng Max Pooling thay cho Average Pooling để bảo toàn các đặc trưng nổi bật nhất.
+- Thêm Batch Normalization sau các lớp tích chập để ổn định và tăng tốc huấn luyện.
+- Thêm Dropout vào các lớp Fully Connected để chống overfitting.
+- Kỹ thuật hỗ trợ: Tăng cường Dữ liệu. 
 
 
 
