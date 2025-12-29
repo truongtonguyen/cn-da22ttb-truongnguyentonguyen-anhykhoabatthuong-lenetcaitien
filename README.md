@@ -36,9 +36,14 @@ Lenet-5:
 - Kỹ thuật hỗ trợ: Tăng cường Dữ liệu. 
 
 ======
+
 Trương Nguyễn Tố Nguyên
+
 truongtonhu12@gmail.com
+
 0911048533
+
+======
 
 
 
