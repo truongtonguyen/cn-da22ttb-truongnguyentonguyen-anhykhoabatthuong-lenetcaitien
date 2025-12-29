@@ -35,6 +35,14 @@ Lenet-5:
 - Thêm Dropout vào các lớp Fully Connected để chống overfitting.
 - Kỹ thuật hỗ trợ: Tăng cường Dữ liệu. 
 
+### Cách chạy code
+1. Tải file .ipynb về máy tính.
+2. Tìm COVID-19 Radiography Database trong Kaggle.
+3. Click vào Kebab Menu (dấu ba chấm dọc), chọn New notebook.
+4. Trong Kaggle Notebook, vào File -> Import Notebook.
+5. Chọn file .ipynb từ máy tính.
+6. Chạy từng cell.
+7. Lưu kết quả: nhấn "Save Version" (góc trên bên phải).
 ===================
 
 Trương Nguyễn Tố Nguyên
