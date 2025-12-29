@@ -1,10 +1,11 @@
 ## 1. Thông tin cơ bản
-**Tên dataset:** COVID-19 Radiography Database
-**Nguồn gốc:** Kaggle ([Link gốc](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database))
+**Tên dataset:** COVID-19 Radiography Database.
+**Nguồn gốc:** Kaggle.
+**URL gốc:** https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database.
 **Nhóm tác giả:** Các nhà nghiên cứu từ Qatar University, University of Dhaka và cộng tác viên.
-**Ngày tải:** 24/12/2025
-**Dung lượng gốc:** ~1.2 GB (nén), ~X GB (giải nén)
-**Định dạng file nén:** .zip
+**Ngày tải:** 24/12/2025.
+**Dung lượng gốc:** ~800 MB (nén), ~900 MB (giải nén).
+**Định dạng file nén:** .zip.
 **Phiên bản dataset:** Phiên bản thứ 2 (2nd update) - theo mô tả từ trang Kaggle.
 
 ## 2. Chi tiết về dữ liệu
