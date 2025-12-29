@@ -1,0 +1,25 @@
+## 1. Thông tin cơ bản
+**Tên dataset:** COVID-19 Radiography Database
+**Nguồn gốc:** Kaggle ([Link gốc](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database))
+**Nhóm tác giả:** Các nhà nghiên cứu từ Qatar University, University of Dhaka và cộng tác viên.
+**Ngày tải:** 24/12/2025
+**Dung lượng gốc:** ~1.2 GB (nén), ~X GB (giải nén)
+**Định dạng file nén:** .zip
+**Phiên bản dataset:** Phiên bản thứ 2 (2nd update) - theo mô tả từ trang Kaggle.
+
+## 2. Chi tiết về dữ liệu
+### COVID-19 images (3616 ảnh):
+- 2473 ảnh từ Padchest dataset.
+- 183 ảnh từ một trường y khoa ở Đức.
+- 559 ảnh từ các nguồn SIRM, GitHub, Kaggle & Twitter.
+- 400 ảnh từ một nguồn GitHub khác.
+
+### Normal images (10192 ảnh):
+- 8851 ảnh từ RSNA.
+- 1341 ảnh từ Kaggle.
+
+### Lung Opacity images (6012 ảnh):
+- Tất cả đều từ Radiological Society of North America (RSNA) CXR dataset.
+
+### Viral Pneumonia images (1345 ảnh):
+- Tất cả đều từ Chest X-Ray Images (pneumonia) database trên Kaggle.
